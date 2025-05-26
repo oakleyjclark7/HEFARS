@@ -2,6 +2,7 @@
 **HEXITEC Electric Field and Readout Simulation**
 
 HEFARS processes data from my other Geant4 projects, and takes into account charge transport and electronic readout
+
 Author: Oakley Clark, oakley.clark98@gmail.com, https://www.linkedin.com/in/oakleyjarvisclark/
 
 ## Building
