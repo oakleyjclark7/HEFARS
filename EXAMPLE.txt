@@ -1,0 +1,13 @@
+[IN FILE]
+example.csv
+
+[HISTOGRAM]
+Emin = 0
+Emax = 240
+Estep = 0.2
+
+[CHARGE SHARING]
+threshold = 3
+
+[DEAD TIME]
+eventrate = 2000000
