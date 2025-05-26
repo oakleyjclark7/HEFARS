@@ -11,7 +11,7 @@ Author: Oakley Clark, oakley.clark98@gmail.com, https://www.linkedin.com/in/oakl
 
 To build the executable:
 
-1. Ensure you have **GCC** and **Make** installed. You can use environments like:
+1. Ensure you have **GCC** and **Make** installed
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
 4. Run:
@@ -23,8 +23,9 @@ This will compile the project and produce HEFARS.exe
 ## Running
 
 1. From a terminal or command prompt, run:
-    '''bash
+    ```bash
     HEFARS.exe
+    ```
 2. You will be prompted for the path to a run file (.txt) that contains the simulation instructions
 3. An example run file is included as EXAMPLE.txt
 
