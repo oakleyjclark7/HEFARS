@@ -28,7 +28,7 @@ double GetSigmaZero(double edep){
 
 double GetdSdt(double s, double z, double edep){
 
-    double mobility = 0.138;
+    double mobility = 0.1; // m^2 / V.s
     double N = 1000*edep/4.6;
     double kb = 1.38064852*pow(10,-23); // SI units
     double T = 298.0; // K
